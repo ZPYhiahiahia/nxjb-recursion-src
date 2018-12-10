@@ -1,16 +1,16 @@
 #include <stdio.h> 
 void Recursion(int depth){
-    printf("±§×Å");
+    printf("ï¿½ï¿½ï¿½ï¿½");
     if (!depth) {
-        printf("ÎÒµÄÐ¡ÀðÓã");
+        printf("ï¿½Òµï¿½Ð¡ï¿½ï¿½ï¿½ï¿½");
     }
     else {
         Recursion(--depth);
     }
-    printf("µÄÎÒ");
+    printf("ï¿½ï¿½ï¿½ï¿½");
 }
 int main(){
-    printf("ÏÅµÃÎÒ±§ÆðÁË\n");
+    printf("ï¿½Åµï¿½ï¿½Ò±ï¿½ï¿½ï¿½ï¿½ï¿½\n");
     Recursion(2);
     putchar('\n');
 }
