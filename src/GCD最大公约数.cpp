@@ -2,7 +2,7 @@
 using namespace std;
 
 int gcd(int a,int b){
-    return b?gcd(b,a%b):a; // è¾—è½¬ç›¸é™¤æ³•
+    return b?gcd(b,a%b):a; // Õ·×ªÏà³ý·¨
 }
 
 int main(){
