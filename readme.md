@@ -1,6 +1,6 @@
 # **递归 recursion**
 
-## 参考资料
+## ***参考资料***
 ```
     解汉诺塔的基本方法
     https://www.bilibili.com/video/av9830115
@@ -31,7 +31,14 @@
     https://blog.csdn.net/scientists112/article/details/78850754
 ```
 
-## 一些线上算法竞赛的网址
+## ***一些线上算法竞赛的网址***
+### **国内**
+```
+    https://www.nowcoder.com
+    https://www.jisuanke.com/
+    https://pintia.cn/
+```
+### **国外**
 ```
     http://codeforces.com
     http://atcoder.jp
